@@ -2422,8 +2422,8 @@ Feedback Area Style
 Discover Area Style
 ======================================================*/
 .discover-area {
-  position: relative;
-  z-index: -1;
+  
+  z-index: 1;
   overflow: hidden;
 }
 
